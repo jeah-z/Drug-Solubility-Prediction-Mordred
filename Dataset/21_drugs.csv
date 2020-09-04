@@ -1,0 +1,22 @@
+name,Measured,ESOL,SMILES
+antipyrine,-0.56,-1.79,O=C1C=C(C)N(C)N1C2=CC=CC=C2
+aspirin,-1.72,-1.98,O=C(C1=C(OC(C)=O)C=CC=C1)O
+atrazine,-3.85,-2.95,CCNC1=NC(NC(C)C)=NC(Cl)=N1
+benzocaine,-2.32,-2.38,CCOC(C1=CC=C(C=C1)N)=O
+trans-chlordane,-6.86,-5.88,Cl[C@H]1[C@H](Cl)C[C@]2([H])[C@@]3(Cl)C(Cl)=C(Cl)[C@@](C3(Cl)Cl)(Cl)[C@@]21[H]
+cis-chlordane,-6.86,-5.88,Cl[C@H]1[C@@H](Cl)C[C@]2([H])[C@@]3(Cl)C(Cl)=C(Cl)[C@@](C3(Cl)Cl)(Cl)[C@@]21[H]
+chlorpyrifos,-5.49,-4.89,ClC1=C(Cl)N=C(OP(OCC)(OCC)=S)C(Cl)=C1
+diazepam,-3.76,-4.03,O=C(N1C)CN=C(C2=CC=CC=C2)C3=C1C=CC(Cl)=C3
+diazinon,-3.64,-3.95,CC1=NC(C(C)C)=NC(OP(OCC)(OCC)=S)=C1
+diuron,-3.8,-3.3,O=C(N(C)C)NC1=CC=C(Cl)C(Cl)=C1
+lindane,-4.64,-3.97,Cl[C@H]1[C@H](Cl)[C@H](Cl)[C@@H](Cl)[C@H](Cl)[C@@H]1Cl
+malathion,-3.37,-3.4,O=C(C(CC(OCC)=O)SP(OC)(OC)=S)OCC
+nitrofurantoin,-3.47,-1.36,O=C1NC(CN1/N=C\C2=CC=C(O2)[N+]([O-])=O)=O
+parathion,-4.66,-3.93,S=P(OCC)(OCC)OC1=CC=C([N+]([O-])=O)C=C1
+"2,2,4,5,5-PCB",-7.89,-6.61,ClC1=CC=C(Cl)C(C2=CC(Cl)=C(Cl)C=C2Cl)=C1
+phenobarbital,-2.34,-2.33,O=C(NC1=O)NC(C1(C2=CC=CC=C2)CC)=O
+phenolphthalein,-2.9,-3.91,O=C1OC(C2=CC=C(O)C=C2)(C3=CC=C(O)C=C3)C4=C1C=CC=C4
+phenytoin,-3.99,-3.09,O=C1NC(C(C2=CC=CC=C2)(N1)C3=CC=CC=C3)=O
+prostaglandin E2,-2.47,-2.87,O=C1[C@H](C/C=C\CCCC(O)=O)[C@@H](/C=C/[C@@H](O)CCCCC)[C@H](O)C1
+testosterone,-4.09,-3.64,O=C1CC[C@]2(C)[C@@]3([H])CC[C@]4(C)[C@@H](O)CC[C@@]4([H])[C@]3([H])CCC2=C1
+theophylline,-1.39,-1.52,CN(C(N1C)=O)C2=C(NC=N2)C1=O
