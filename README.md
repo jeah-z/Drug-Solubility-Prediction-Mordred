@@ -6,7 +6,7 @@ This is a collection neural network model to predict aqueous drug-like molecules
 ![image](https://github.com/jeah-z/Drug-Solubility-Prediction-Mordred/blob/master/Figures/dnn.png)
 Fig. 1 Architecture of solubility prediction models based on DNN
 ![image](https://github.com/jeah-z/Drug-Solubility-Prediction-Mordred/blob/master/Figures/gcn.png)
-Fig. 2 Architecture of solubility prediction models based on DNN
+Fig. 2 Architecture of solubility prediction models based on GCN
 
 # How to use
 
