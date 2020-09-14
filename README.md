@@ -4,4 +4,28 @@ This is a collection neural network model to predict aqueous drug-like molecules
 
 
 ![image](https://github.com/jeah-z/Drug-Solubility-Prediction-Mordred/blob/master/Figures/dnn.png)
+Fig. 1 Architecture of solubility prediction models based on DNN
 ![image](https://github.com/jeah-z/Drug-Solubility-Prediction-Mordred/blob/master/Figures/gcn.png)
+Fig. 2 Architecture of solubility prediction models based on DNN
+
+# How to use
+
+First the descriptors can be calculated with the command line below:
+
+```
+python descriptor_cal.py
+```
+
+Then the dataset needs to be separated into training set and validation set with the command below:
+```
+python preprocess
+```
+
+The DNN models and GCN models can be trained with below commands separately:
+
+```
+DNN: python regress.py
+GCN: python train_qm.py --model sch_qm --epochs 10000 --train_file ./DATA/C_NMR/C-NMR_train.csv --test_file ./DATA/C_NMR/C-NMR_valid.csv --save test_C_Aug26_1
+
+```
+
