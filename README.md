@@ -18,14 +18,13 @@ python descriptor_cal.py
 
 Then the dataset needs to be separated into training set and validation set with the command below:
 ```
-python preprocess
+python preprocess.py
 ```
 
 The DNN models and GCN models can be trained with below commands separately:
 
 ```
-DNN: python regress.py
-GCN: python train_qm.py --model sch_qm --epochs 10000 --train_file ./DATA/C_NMR/C-NMR_train.csv --test_file ./DATA/C_NMR/C-NMR_valid.csv --save test_C_Aug26_1
-
+DNN: python DNN.py
+GCN: python train.py --model sch --epochs 20000 --dataset huus
 ```
 
